@@ -7,7 +7,7 @@ updates:
     schedule:
       interval: "monthly"
     reviewers:
-      - "ipfaze"
+      - "SCedricThomas"
     groups:
       dependencies:
         patterns:
